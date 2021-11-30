@@ -26,8 +26,8 @@ to update the `README.md` file. Use `git` to commit your changes. We'll be using
 
 You should plan on spending no more than 2 hours on this assignment. While there
 are many possible edits, prioritize your edits so that we can see how you
-sequence edits, what stylistic changes you might make, and what your technical
-assessment is.
+sequence edits, what stylistic changes you might make, and what your approach to
+explaining the learning goals is.
 
 ## Guidelines
 
@@ -52,14 +52,15 @@ Your submission will be evaluated on the following criteria:
 
 - **Explanation of Concepts**
   - Did the candidate successfully explain the lesson's learning goals?
-  - Did the candidate add any additional content or improve the existing content in a
-    meaningful way?
+  - Did the candidate add any additional content or improve the existing content
+    in a meaningful way?
 - **Example Code**
   - Did the candidate write well-formed, beginner-friendly code?
   - Are there any syntax or logical errors in the code they wrote?
 - **Grammar/Consistency**
   - Did the candidate fix grammatical and markdown formatting issues?
-  - Did the candidate introduce any grammatical/stylistic issues in newly added content?
+  - Did the candidate introduce any grammatical/stylistic issues in newly added
+    content?
 - **Use of Git**
   - Did the candidate document their changes with a clean commit history?
   - Did they leave the original history of the repository intact?
