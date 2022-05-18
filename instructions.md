@@ -44,7 +44,7 @@ consistent throughout.
 ## Submitting
 
 To submit, please push your code to a **private** GitHub repository and share it
-with the GitHub user [lizbur10](https://github.com/lizbur10).
+with the GitHub user [AlveeM](https://github.com/AlveeM/).
 
 ## Evaluation
 
