@@ -20,7 +20,8 @@ helpful resource.
 
 Please clone (don't fork) this repository, and use a text editor of your choice
 to update the `README.md` file. Use `git` to commit your changes. We'll be using
-`git diff` and similar tools to see what you changed.
+`git diff` and similar tools to see what you changed, so be sure to maintain
+the repo's full commit history.
 
 ## Time Commitment
 
@@ -44,7 +45,9 @@ consistent throughout.
 ## Submitting
 
 To submit, please push your code to a **private** GitHub repository and share it
-with the GitHub user [professor-ben](https://github.com/professor-ben).
+with the GitHub user [professor-ben](https://github.com/professor-ben) and 
+[lizbur10](https://github.com/lizbur10). Make sure your repo includes the full
+commit history.
 
 ## Evaluation
 
