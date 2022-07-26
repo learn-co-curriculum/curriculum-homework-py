@@ -45,7 +45,7 @@ consistent throughout.
 ## Submitting
 
 To submit, please push your code to a **private** GitHub repository and share it
-with the GitHub user [professor-ben](https://github.com/professor-ben) and 
+with the GitHub users [professor-ben](https://github.com/professor-ben) and 
 [lizbur10](https://github.com/lizbur10). Make sure your repo includes the full
 commit history.
 
